@@ -1,4 +1,4 @@
-heyy programmers and devs  this i0 just a simple animated landing page.
+heyy programmers and devs  this is just a simple animated landing page.
 
 Tech stack : HTML , CSS
 Libraries used : Green sock animation [GSAP] in script
