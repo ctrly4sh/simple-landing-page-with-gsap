@@ -2,7 +2,7 @@ heyy programmers and devs  this is simple animated landing page.
 
 just add your video and set the rgba(0,0,0,0)
 
-you can visit the live link here : https://www.land-here.netlify.app
+you can visit the live link here : https://land-here.netlify.app/
 
 Tech stack : HTML , CSS
 Libraries used : Green sock animation [GSAP] in script
